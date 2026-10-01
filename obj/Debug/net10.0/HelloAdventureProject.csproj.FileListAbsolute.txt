@@ -1,0 +1,14 @@
+C:\Users\s37534\HelloAdventureProject\bin\Debug\net10.0\HelloAdventureProject.exe
+C:\Users\s37534\HelloAdventureProject\bin\Debug\net10.0\HelloAdventureProject.deps.json
+C:\Users\s37534\HelloAdventureProject\bin\Debug\net10.0\HelloAdventureProject.runtimeconfig.json
+C:\Users\s37534\HelloAdventureProject\bin\Debug\net10.0\HelloAdventureProject.dll
+C:\Users\s37534\HelloAdventureProject\bin\Debug\net10.0\HelloAdventureProject.pdb
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.AssemblyInfoInputs.cache
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.AssemblyInfo.cs
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.csproj.CoreCompileInputs.cache
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.dll
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\refint\HelloAdventureProject.dll
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.pdb
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\HelloAdventureProject.genruntimeconfig.cache
+C:\Users\s37534\HelloAdventureProject\obj\Debug\net10.0\ref\HelloAdventureProject.dll
